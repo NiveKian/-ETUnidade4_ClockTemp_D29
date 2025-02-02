@@ -11,6 +11,10 @@
 
 ![Modelo 1](Images/wokwi_1.png)
 
+## Funcionamento do projeto 1
+
+![Funcionamento atv1](Images/Atv1_D29.gif)
+
 # Atividade 02: Temporizador de um disparo (One Shot).
 
 ## Funcionalidade
@@ -23,4 +27,8 @@
 ## Modelo Wokwi
 
 ![Modelo 2](Images/wokwi_2.png)
+
+## Funcionamento do projeto 2
+
+![Funcionamento atv1](Images/Atv2_D29.gif)
 
