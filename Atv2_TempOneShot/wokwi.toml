@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/Atv2_TempOneShot.uf2'
+elf = 'build/Atv2_TempOneShot.elf'
